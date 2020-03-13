@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/edari"
+        android:title="@string/edari"/>
+
+    <item android:id="@+id/financial"
+        android:title="@string/financial"/>
+
+    <item android:id="@+id/trade"
+        android:title="@string/trade"/>
+
+    <item android:id="@+id/production"
+        android:title="@string/production"/>
+
+    <item android:id="@+id/repair"
+        android:title="@string/repair"/>
+
+    <item android:id="@+id/depot"
+        android:title="@string/depot"/>
+
+    <item android:id="@+id/laboratory"
+        android:title="@string/laboratory"/>
+
+    <item android:id="@+id/personnelInformation"
+        android:title="@string/personnel_information"/>
+
+    <item android:id="@+id/aboutMe"
+        android:title="@string/about_me"/>
+
+</menu>

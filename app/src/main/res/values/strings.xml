@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FAM</string>
+    <string name="open">open drawer</string>
+    <string name="close">close drawer</string>
+    <string name="home_toolbar_title">فام</string>
+    <string name="repair">تعمیر و نگهداری</string>
+    <string name="edari">اداری</string>
+    <string name="financial">مالی</string>
+    <string name="trade">بازرگانی</string>
+    <string name="production">تولید</string>
+    <string name="depot">انبار</string>
+    <string name="laboratory">آزمایشگاه</string>
+    <string name="personnel_information">مشخصات پرسنلی</string>
+    <string name="about_me">درباره ما</string>
+    <string name="equipments">تجهیزات</string>
+    <string name="equipment_code">کد تجهیز</string>
+    <string name="enter_barcode">بارکد را وارد کنید ...</string>
+    <string name="barcode_reader">بارکد خوان</string>
+    <string name="show_equipment_details">نمایش</string>
+    <string name="plot">قطعات</string>
+    <string name="repairs">تعمیرات</string>
+    <string name="keeping">نگهداری</string>
+    <string name="document">مستندات</string>
+    <string name="equipment_information">اطلاعات تجهیز</string>
+
+</resources>
